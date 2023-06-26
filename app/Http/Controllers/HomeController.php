@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class KhaosatController extends Controller
+class HomeController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -13,7 +13,7 @@ class KhaosatController extends Controller
      */
     public function index()
     {
-        //
+        return view('pages.home');
     }
 
     /**
