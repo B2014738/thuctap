@@ -223,7 +223,7 @@
                         <!-- Single Widget -->
                         <div class="single-footer footer-newsletter">
                             <h3>Bản Tin</h3>
-                            <p>Theo dõi bộ môn tin học trên các kênh truyền thông để cập nhật tin tức mới nhất</p>
+                            <p>Theo dõi bộ môn Tin Học trên các kênh truyền thông để cập nhật tin tức mới nhất</p>
                             <form action="mail/mail.php" method="get" target="_blank" class="newsletter-form">
                                 <input name="EMAIL" placeholder="Địa chỉ email của bạn" class="common-input"
                                     onfocus="this.placeholder = ''"
